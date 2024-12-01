@@ -25,6 +25,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+buildlib.win-amd64-cpython-313psycopg2
+[18
+.vscode
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
