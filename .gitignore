@@ -27,6 +27,7 @@ share/python-wheels/
 MANIFEST
 buildlib.win-amd64-cpython-313psycopg2
 [18
+'[18'
 .vscode
 
 # PyInstaller
